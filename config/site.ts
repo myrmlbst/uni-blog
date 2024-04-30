@@ -4,7 +4,7 @@ export const siteConfig = {
     description: "Educational blog",
     author1: "Myriam",
     links: {
-      github: "https://github.com/myrmlbst",
+      github: "https://github.com/myrmlbst/blog.tsx",
     },
   };
   
