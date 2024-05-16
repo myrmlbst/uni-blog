@@ -11,9 +11,7 @@ export default async function BlogPage() {
                     <h1 className="inline-block font-black text-4xl lg:text-5xl">
                         Blog Posts
                     </h1>
-                    <p className="text-xl text-muted-foreground">
-                        My ramblings on all things web dev.
-                    </p>
+                    <div className="text-xl text-muted-foreground"></div>
                 </div>
             </div>
 
