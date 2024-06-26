@@ -1,0 +1,8 @@
+---
+title: Boilerplate for Blog
+description: uniform structure for all blog posts
+date: YEAR-MONTH-DAY
+published: bool (true/false)
+---
+
+[Insert article and blog body content here.]
